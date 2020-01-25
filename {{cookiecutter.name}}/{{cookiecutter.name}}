@@ -1,0 +1,12 @@
+[user]
+    name = {{cookiecutter.author}}
+    email = {{cookiecutter.email}}
+    username = {{cookiecutter.user}}
+
+[core]
+    editor = {{cookiecutter.editor}}
+    excludesfile = ~/.gitignore
+
+[alias]
+    st = status
+    tr = ls-tree -r master --name-only
