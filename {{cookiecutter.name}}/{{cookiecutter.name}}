@@ -2,6 +2,9 @@
     name = {{cookiecutter.author}}
     email = {{cookiecutter.email}}
     username = {{cookiecutter.user}}
+    
+[github]
+	user = {{cookiecutter.user}}
 
 [core]
     editor = {{cookiecutter.editor}}
